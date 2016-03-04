@@ -1,3 +1,5 @@
 this is a test file
 
-the version change test
+version change test
+
+add gpg
