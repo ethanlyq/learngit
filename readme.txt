@@ -1,5 +1,4 @@
 this is a test file
 
 version change test
-
-add gpg
+this is git status test
