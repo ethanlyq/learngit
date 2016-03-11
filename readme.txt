@@ -7,8 +7,4 @@ two times changes commit
 
 test
 
-
-test ddd
-
-
 git dev test
