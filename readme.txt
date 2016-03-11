@@ -6,3 +6,6 @@ this is git status test
 two times changes commit
 
 test
+
+
+test ddd
